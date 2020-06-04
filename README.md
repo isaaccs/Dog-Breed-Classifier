@@ -11,7 +11,11 @@ Welcome to the Convolutional Neural Networks (CNN) project! In this project, you
 
 ![Sample Output][image1]
 Convolutional Neural Networks (CNNs) are commonly used to analyse image data. You can find more information about their on [Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
-![CNN][image2]
+![CNN](images/sample_cnn.png)
+
+Transfer Learning is a Machine Learning method where a model developed for a task is reused as the starting point for a model on a second task. It is a popular approach in Deep Learning where pre-trained models are used as the starting point on computer vision and natural language processing tasks given the vast compute and time resources required to develop neural network models on these problems and from the huge jumps in a skill that they provide on related problems.
+You can find more information [on  this blog](https://mc.ai/transfer-learning-with-deep-learning-machine-learning-techniques/)
+![Transfer Learning](images/Transfert_learning.png)
 
 ## File descriptions
 * dog_app.ipynb: Jupyter notebook containing the algorithm and process used to create it.

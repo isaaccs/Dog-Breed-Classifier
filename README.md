@@ -38,14 +38,13 @@ You can find more information [on  this blog](https://mc.ai/transfer-learning-wi
 ## Contents
 The project is organized along the following steps:
 
-'''Intro
-Step 0: Import Datasets
-Step 1: Detect Humans
-Step 2: Detect Dog
-Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
-Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
-Step 5: Write Your Algorithm
-Step 6: Test Your Algorithm'''
+* Step 0: Import Datasets
+* Step 1: Detect Humans
+* Step 2: Detect Dog
+* Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
+* Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+* Step 5: Write Your Algorithm
+* Step 6: Test Your Algorithm
 
 
 ## Technologies

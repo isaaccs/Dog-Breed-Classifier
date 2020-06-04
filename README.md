@@ -46,6 +46,17 @@ The project is organized along the following steps:
 * Step 5: Write Your Algorithm
 * Step 6: Test Your Algorithm
 
+## Results
+
+* The model achieved a test accuracy of 60%.
+* The model predicted the same two or three breeds when identifying an image as human. Therefore more variety is needed concerning the type of breeds the model predicts for humans.
+
+According to my interpretation The output could be better:
+
+* By using Image Augmentation.
+* Accuracy could be improved if we provide more data for training (More Breeds can be added).
+* Accuracy could be also improved if we increase the depth of the neural network.
+* Different model architectures can be explored to reduce prediction time while maintaining accuracy.
 
 ## Technologies
 ### Languages

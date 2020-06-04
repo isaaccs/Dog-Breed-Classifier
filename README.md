@@ -9,7 +9,18 @@
 
 Welcome to the Convolutional Neural Networks (CNN) project! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
+
 ![Sample Output][image1]
+
+## Table of contents
+* [Helpful Link For The Project](#Helpful-Link-For-The-Project)
+* [File Descriptions](#File-Descriptions)
+* [Results](#Results)
+* [Technologies](#technologies)
+* [Contact](#Contact)
+
+## Helpful Link For The Project:
+
 Convolutional Neural Networks (CNNs) are commonly used to analyse image data. You can find more information about their on [Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 ![CNN](images/sample_cnn.png)
 
@@ -22,5 +33,25 @@ You can find more information [on  this blog](https://mc.ai/transfer-learning-wi
 * dog_app.html: A copy of dog_app.ipynb in html format.
 * Haarcascades folder: Xml file for use with the OpenCv face detector class.
 * Various images: Images in jpg and jpeg format used to test the algorithm's predictions.
+
+## Technologies
+### Languages
+Project is created with Python 3.6.9.
+
+### Dependencies
+
+
+* [NumPy](https://numpy.org)
+* [Matplotlib](https://matplotlib.org)
+* [pandas](https://pandas.pydata.org)
+* [OpenCV](https://opencv.org/)
+* [Keras](https://keras.io/)
+
+
+
+
+## Contact
+
+* Mail: isaaccohensabban_at_gmail_dot_com
 
 

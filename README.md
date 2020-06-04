@@ -48,8 +48,10 @@ The project is organized along the following steps:
 
 ## Results
 
-* The model achieved a test accuracy of 60%.
+* The model achieved a test accuracy of 75%.
 * The model predicted the same two or three breeds when identifying an image as human. Therefore more variety is needed concerning the type of breeds the model predicts for humans.
+
+![results](images/results.jpeg)
 
 According to my interpretation The output could be better:
 

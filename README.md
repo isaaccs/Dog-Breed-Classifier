@@ -60,6 +60,9 @@ According to my interpretation The output could be better:
 * Accuracy could be also improved if we increase the depth of the neural network.
 * Different model architectures can be explored to reduce prediction time while maintaining accuracy.
 
+You can see a [blog post on Medium](https://medium.com/@isaaccohensabban/why-should-you-use-transfer-learning-for-your-image-recognition-app-5b34ea4a38b3).
+
+
 ## Technologies
 ### Languages
 Project is created with Python 3.6.9.
